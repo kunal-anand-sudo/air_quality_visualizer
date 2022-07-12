@@ -1,0 +1,1094 @@
+{
+    "Secretariat, Amaravati - APPCB": [
+        80.4681,
+        16.5275
+    ],
+    "Anand Kala Kshetram, Rajamahendravaram - APPCB": [
+        81.7778,
+        17.0052
+    ],
+    "Tirumala, Tirupati - APPCB": [
+        79.349042,
+        13.681638
+    ],
+    "GVM Corporation, Visakhapatnam - APPCB": [
+        83.25,
+        17.7
+    ],
+    "Pan Bazaar, Guwahati - APCB": [
+        91.746487,
+        26.186618
+    ],
+    "Railway Colony, Guwahati - APCB": [
+        91.76667,
+        26.16667
+    ],
+    "Collectorate, Gaya - BSPCB": [
+        85,
+        24.75
+    ],
+    "SFTI Kusdihra, Gaya - BSPCB": [
+        84.980681,
+        24.754811
+    ],
+    "Industrial Area, Hajipur - BSPCB": [
+        84.533177,
+        26.798769
+    ],
+    "Buddha Colony, Muzaffarpur - BSPCB": [
+        85.128581,
+        25.621927
+    ],
+    "Muzaffarpur Collectorate, Muzaffarpur - BSPCB": [
+        85.45,
+        26.07
+    ],
+    "DRM Office Danapur, Patna - BSPCB": [
+        85.05,
+        25.63333
+    ],
+    "Govt. High School Shikarpur, Patna - BSPCB": [
+        85.161662,
+        25.74958
+    ],
+    "IGSC Planetarium Complex, Patna - BSPCB": [
+        85.14139,
+        25.61
+    ],
+    "Muradpur, Patna - BSPCB": [
+        85.145727,
+        25.618965
+    ],
+    "Rajbansi Nagar, Patna - BSPCB": [
+        85.107773,
+        25.605304
+    ],
+    "Samanpura, Patna - BSPCB": [
+        85.085007,
+        25.59748
+    ],
+    "Sector-25, Chandigarh - CPCC": [
+        76.79111,
+        30.73528
+    ],
+    "Alipur, Delhi - DPCC": [
+        77.185256,
+        28.568651
+    ],
+    "Anand Vihar, Delhi - DPCC": [
+        77.311985,
+        28.651941
+    ],
+    "Ashok Vihar, Delhi - DPCC": [
+        77.177554,
+        28.69206
+    ],
+    "Aya Nagar, Delhi - IMD": [
+        77.132883,
+        28.474059
+    ],
+    "Bawana, Delhi - DPCC": [
+        77.03,
+        28.8
+    ],
+    "CRRI Mathura Road, Delhi - IMD": [
+        77.21667,
+        28.66667
+    ],
+    "Chandni Chowk, Delhi - IITM": [
+        77.237364,
+        28.582466
+    ],
+    "DTU, Delhi - CPCB": [
+        77.185256,
+        28.568651
+    ],
+    "Dr. Karni Singh Shooting Range, Delhi - DPCC": [
+        77.21667,
+        28.66667
+    ],
+    "Dwarka-Sector 8, Delhi - DPCC ": [
+        77.071261,
+        28.587747
+    ],
+    "IHBAS, Dilshad Garden, Delhi - CPCB": [
+        77.322121,
+        28.686892
+    ],
+    "Jahangirpuri, Delhi - DPCC": [
+        77.188122,
+        28.722092
+    ],
+    "Jawaharlal Nehru Stadium, Delhi - DPCC": [
+        77.2334835,
+        28.5829885
+    ],
+    "Lodhi Road, Delhi - IITM": [
+        77.21667,
+        28.66667
+    ],
+    "Lodhi Road, Delhi - IMD": [
+        77.21667,
+        28.66667
+    ],
+    "Major Dhyan Chand National Stadium, Delhi - DPCC": [
+        77.21667,
+        28.66667
+    ],
+    "Mandir Marg, Delhi - DPCC": [
+        77.1989,
+        28.6328
+    ],
+    "Mundka, Delhi - DPCC": [
+        77.02835,
+        28.67944
+    ],
+    "NSIT Dwarka, Delhi - CPCB": [
+        77.21667,
+        28.66667
+    ],
+    "Najafgarh, Delhi - DPCC": [
+        76.98472,
+        28.6125
+    ],
+    "Narela, Delhi - DPCC": [
+        77.1,
+        28.85
+    ],
+    "Nehru Nagar, Delhi - DPCC": [
+        77.251235,
+        28.570173
+    ],
+    "North Campus, DU, Delhi - IMD": [
+        77.21667,
+        28.66667
+    ],
+    "Okhla Phase-2, Delhi - DPCC": [
+        77.21667,
+        28.66667
+    ],
+    "Patparganj, Delhi - DPCC": [
+        77.185256,
+        28.568651
+    ],
+    "Punjabi Bagh, Delhi - DPCC": [
+        77.12126,
+        28.66751
+    ],
+    "Pusa, Delhi - DPCC": [
+        77.21667,
+        28.66667
+    ],
+    "Pusa, Delhi - IMD": [
+        77.21667,
+        28.66667
+    ],
+    "R K Puram, Delhi - DPCC": [
+        77.179147,
+        28.563872
+    ],
+    "Rohini, Delhi - DPCC": [
+        77.108287,
+        28.699115
+    ],
+    "Shadipur, Delhi - CPCB": [
+        77.303877,
+        28.635056
+    ],
+    "Sonia Vihar, Delhi - DPCC": [
+        77.249445,
+        28.718303
+    ],
+    "Sri Aurobindo Marg, Delhi - DPCC": [
+        77.21667,
+        28.66667
+    ],
+    "Vivek Vihar, Delhi - DPCC": [
+        79.035816,
+        26.775892
+    ],
+    "Wazirpur, Delhi - DPCC": [
+        77.185256,
+        28.568651
+    ],
+    "Chandkheda, Ahmedabad - IITM": [
+        72.58678,
+        23.11842
+    ],
+    "Gyaspur, Ahmedabad - IITM": [
+        72.58,
+        23.03
+    ],
+    "Maninagar, Ahmedabad - GPCB": [
+        72.60135149999999,
+        22.998269
+    ],
+    "Raikhad, Ahmedabad - IITM": [
+        72.5769,
+        23.0216
+    ],
+    "Rakhial, Ahmedabad - IITM": [
+        72.629226,
+        23.0181
+    ],
+    "SAC ISRO Bopal, Ahmedabad - IITM": [
+        72.46782,
+        23.03201
+    ],
+    "SAC ISRO Satellite, Ahmedabad - IITM": [
+        72.521887,
+        23.027213
+    ],
+    "SVPI Airport Hansol, Ahmedabad - IITM": [
+        72.627179,
+        23.074779
+    ],
+    "Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM": [
+        72.627179,
+        23.074779
+    ],
+    "GIFT City, Gandhinagar - IITM": [
+        72.677103,
+        23.162767
+    ],
+    "IIPHG Lekawada, Gandhinagar - IITM": [
+        72.692368,
+        23.252603
+    ],
+    "Sector-10, Gandhinagar - GPCB": [
+        71.3624549010153,
+        23.58157241658
+    ],
+    "GIDC, Nandesari - Nandesari Ind. Association": [
+        73.329853,
+        22.952213
+    ],
+    "Phase-4 GIDC, Vatva - GPCB": [
+        71.3624549010153,
+        23.58157241658
+    ],
+    "Patti Mehar, Ambala - HSPCB": [
+        76.773218,
+        30.378597
+    ],
+    "Arya Nagar, Bahadurgarh - HSPCB": [
+        76.928307,
+        28.675912
+    ],
+    "Nathu Colony, Ballabgarh - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "H.B. Colony, Bhiwani - HSPCB": [
+        76.13333,
+        28.78333
+    ],
+    "Mini Secretariat, Charkhi Dadri - HSPCB": [
+        76.2189,
+        28.6147
+    ],
+    "Municipal Corporation Office, Dharuhera -  HSPCB": [
+        77.029142,
+        28.448811
+    ],
+    "New Industrial Town, Faridabad - HSPCB": [
+        77.304455,
+        28.300529
+    ],
+    "Sector 11, Faridabad - HSPCB": [
+        77.3184,
+        28.3712
+    ],
+    "Sector 30, Faridabad - HSPCB": [
+        77.320363,
+        28.443263
+    ],
+    "Sector- 16A, Faridabad - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "Huda Sector, Fatehabad - HSPCB": [
+        75.473235,
+        29.503112
+    ],
+    "NISE Gwal Pahari, Gurugram - IMD": [
+        77.138865,
+        28.434036
+    ],
+    "Sector-51, Gurugram - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "Teri Gram, Gurugram - HSPCB": [
+        77.03333,
+        28.46667
+    ],
+    "Vikas Sadan, Gurugram - HSPCB": [
+        77.03333,
+        28.46667
+    ],
+    "Urban Estate-II, Hisar - HSPCB": [
+        76.346,
+        29.319195
+    ],
+    "Police Lines, Jind - HSPCB": [
+        76.347883,
+        29.307818
+    ],
+    "Rishi Nagar, Kaithal - HSPCB": [
+        76.414595,
+        29.804521
+    ],
+    "Sector-12, Karnal - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "Sector-7, Kurukshetra - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "General Hospital, Mandikhera - HSPCB": [
+        77.03098,
+        28.996845
+    ],
+    "Sector-2 IMT, Manesar - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "Shastri Nagar, Narnaul - HSPCB": [
+        76.113884,
+        28.064182
+    ],
+    "Shyam Nagar, Palwal - HSPCB": [
+        77.33048,
+        28.147102
+    ],
+    "Sector-6, Panchkula - HSPCB ": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "Sector-18, Panipat - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "MD University, Rohtak - HSPCB": [
+        77.058169,
+        28.473621
+    ],
+    "F-Block, Sirsa - HSPCB": [
+        76.2848610263565,
+        29.45287690166
+    ],
+    "Murthal, Sonipat - HSPCB": [
+        77.01139,
+        28.99583
+    ],
+    "Gobind Pura, Yamuna Nagar - HSPCB": [
+        77.28028,
+        30.12889
+    ],
+    "Rajbagh, Srinagar - JKSPCB": [
+        74.825425,
+        34.065387
+    ],
+    "Tata Stadium, Jorapokhar - JSPCB": [
+        86.401,
+        23.709
+    ],
+    "Vidayagiri, Bagalkot - KSPCB": [
+        75.658417,
+        16.178658
+    ],
+    "BTM Layout, Bengaluru - CPCB": [
+        75.927241,
+        14.469507
+    ],
+    "BWSSB Kadabesanahalli, Bengaluru - CPCB": [
+        77.693968,
+        12.938382
+    ],
+    "Bapuji Nagar, Bengaluru - KSPCB": [
+        77.540223,
+        12.954893
+    ],
+    "City Railway Station, Bengaluru - KSPCB": [
+        77.588446,
+        12.992112
+    ],
+    "Hebbal, Bengaluru - KSPCB": [
+        77.591347,
+        13.04034
+    ],
+    "Jayanagar 5th Block, Bengaluru - KSPCB": [
+        77.595,
+        12.925
+    ],
+    "Peenya, Bengaluru - CPCB": [
+        77.514,
+        13.03
+    ],
+    "Sanegurava Halli, Bengaluru - KSPCB": [
+        77.588446,
+        12.992112
+    ],
+    "Silk Board, Bengaluru - KSPCB": [
+        77.587048,
+        12.906148
+    ],
+    "Naubad, Bidar - KSPCB": [
+        77.474158,
+        17.93313
+    ],
+    "Urban, Chamarajanagar - KSPCB": [
+        76.932092,
+        11.932105
+    ],
+    "Chikkaballapur Rural, Chikkaballapur - KSPCB": [
+        77.72417,
+        13.43417
+    ],
+    "Kalyana Nagara, Chikkamagaluru - KSPCB": [
+        75.77,
+        13.32
+    ],
+    "Devaraj Urs Badavane, Davanagere - KSPCB": [
+        75.907957,
+        14.475172
+    ],
+    "Panchal Nagar, Gadag - KSPCB": [
+        75.61667,
+        15.41667
+    ],
+    "B.Katihalli, Hassan - KSPCB": [
+        76.1,
+        13.06
+    ],
+    "Deshpande Nagar, Hubballi - KSPCB": [
+        75.137959,
+        15.355645
+    ],
+    "Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB": [
+        76.819772,
+        17.317391
+    ],
+    "Tamaka Ind. Area, Kolar - KSPCB": [
+        78.167225,
+        13.133663
+    ],
+    "Diwator Nagar, Koppal - KSPCB": [
+        76.15,
+        15.35
+    ],
+    "Kadri, Mangalore - KSPCB": [
+        74.85526,
+        12.88419
+    ],
+    "Stuart Hill, Madikeri - KSPCB": [
+        -86.133057,
+        39.777786
+    ],
+    "Hebbal 1st Stage, Mysuru - KSPCB": [
+        76.349047,
+        12.470532
+    ],
+    "Haji Colony, Raichur - KSPCB": [
+        77.37,
+        16.2
+    ],
+    "Vinoba Nagara, Shivamogga - KSPCB": [
+        75.556756,
+        13.947466
+    ],
+    "Brahmagiri, Udupi - KSPCB": [
+        74.74611,
+        13.33222
+    ],
+    "Ibrahimpur, Vijayapura - KSPCB": [
+        75.72756,
+        16.803777
+    ],
+    "Collector Office, Yadgir - KSPCB": [
+        76.530597,
+        17.179525
+    ],
+    "Kacheripady, Ernakulam - Kerala PCB": [
+        76.2845,
+        9.9857
+    ],
+    "Thavakkara, Kannur - Kerala PCB": [
+        75.373064,
+        11.86654
+    ],
+    "Vyttila, Kochi - Kerala PCB": [
+        76.3159,
+        9.967
+    ],
+    "Polayathode, Kollam - Kerala PCB": [
+        76.610665,
+        8.878787
+    ],
+    "Palayam, Kozhikode - Kerala PCB": [
+        75.787006,
+        11.248826
+    ],
+    "Kariavattom, Thiruvananthapuram - Kerala PCB": [
+        76.890392,
+        8.568923
+    ],
+    "Plammoodu, Thiruvananthapuram - Kerala PCB": [
+        76.89972,
+        8.5
+    ],
+    "T T Nagar, Bhopal - MPPCB": [
+        77.41667,
+        23.25
+    ],
+    "Shrivastav Colony, Damoh - MPPCB": [
+        78.951347,
+        22.063656
+    ],
+    "Bhopal Chauraha, Dewas - MPPCB": [
+        77.41667,
+        23.25
+    ],
+    "City Center, Gwalior - MPPCB": [
+        78.194369,
+        26.209302
+    ],
+    "Chhoti Gwaltoli, Indore - MPPCB": [
+        75.870835,
+        22.71735
+    ],
+    "Marhatal, Jabalpur - MPPCB": [
+        79.933814,
+        23.166575
+    ],
+    "Gole Bazar, Katni - MPPCB": [
+        80.395123,
+        23.832524
+    ],
+    "Sahilara, Maihar - KJS Cements": [
+        80.723128,
+        24.248193
+    ],
+    "Sector-2 Industrial Area, Pithampur - MPPCB": [
+        78.7282644145679,
+        23.56728837479
+    ],
+    "Shasthri Nagar, Ratlam - IPCA Lab": [
+        75.043409,
+        23.330231
+    ],
+    "Deen Dayal Nagar, Sagar - MPPCB": [
+        78.212169,
+        26.261397
+    ],
+    "Bandhavgar Colony, Satna - Birla Cement": [
+        80.85681,
+        24.580255
+    ],
+    "Vindhyachal STPS, Singrauli - MPPCB": [
+        82.39,
+        24.11
+    ],
+    "Mahakaleshwar Temple, Ujjain - MPPCB": [
+        75.76871399999999,
+        23.182934
+    ],
+    "More Chowk Waluj, Aurangabad - MPCB": [
+        75.230667,
+        19.788469
+    ],
+    "Chandrapur, Chandrapur - MPCB": [
+        79.3,
+        19.95
+    ],
+    "MIDC Khutala, Chandrapur - MPCB": [
+        79.488856,
+        20.449115
+    ],
+    "Khadakpada, Kalyan - MPCB": [
+        73.133543,
+        19.263568
+    ],
+    "Bandra Kurla Complex, Mumbai - IITM": [
+        72.84056,
+        19.05444
+    ],
+    "Bandra, Mumbai - MPCB": [
+        72.827785,
+        19.051052
+    ],
+    "Borivali East, Mumbai - IITM": [
+        72.8598,
+        19.235
+    ],
+    "Borivali East, Mumbai - MPCB": [
+        72.8598,
+        19.235
+    ],
+    "Chakala-Andheri East, Mumbai - IITM": [
+        72.859957,
+        19.11545
+    ],
+    "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB": [
+        72.834172,
+        18.922713
+    ],
+    "Colaba, Mumbai - MPCB": [
+        72.8106,
+        18.9069
+    ],
+    "Deonar, Mumbai - IITM": [
+        72.919204,
+        19.049513
+    ],
+    "Kandivali East, Mumbai - MPCB": [
+        72.8728,
+        19.1955
+    ],
+    "Khindipada-Bhandup West, Mumbai - IITM": [
+        76.3571538571062,
+        19.75554191457
+    ],
+    "Kurla, Mumbai - MPCB": [
+        72.882664,
+        19.082365
+    ],
+    "Malad West, Mumbai - IITM": [
+        72.8347,
+        19.1849
+    ],
+    "Mazgaon, Mumbai - IITM": [
+        72.840121,
+        18.968681
+    ],
+    "Mulund West, Mumbai - MPCB": [
+        72.9522,
+        19.1759
+    ],
+    "Navy Nagar-Colaba, Mumbai - IITM": [
+        80.104602,
+        20.742166
+    ],
+    "Powai, Mumbai - MPCB": [
+        72.91,
+        19.12
+    ],
+    "Siddharth Nagar-Worli, Mumbai - IITM": [
+        77.582565,
+        18.549562
+    ],
+    "Sion, Mumbai - MPCB": [
+        72.864225,
+        19.042686
+    ],
+    "Vasai West, Mumbai - MPCB": [
+        72.8,
+        19.47
+    ],
+    "Vile Parle West, Mumbai - MPCB": [
+        72.837361,
+        19.103831
+    ],
+    "Worli, Mumbai - MPCB": [
+        72.8167,
+        19.0167
+    ],
+    "Opp GPO Civil Lines, Nagpur - MPCB": [
+        79.069531,
+        21.152819
+    ],
+    "Gangapur Road, Nashik - MPCB": [
+        73.721402,
+        20.024251
+    ],
+    "Mahape, Navi Mumbai - MPCB": [
+        73.028111,
+        19.109989
+    ],
+    "Nerul, Navi Mumbai - MPCB": [
+        73.0172,
+        19.0242
+    ],
+    "Alandi, Pune - IITM": [
+        73.903221,
+        18.696079
+    ],
+    "Bhosari, Pune - IITM": [
+        73.845858,
+        18.64325
+    ],
+    "Karve Road, Pune - MPCB": [
+        73.84778,
+        18.52361
+    ],
+    "MIT-Kothrud, Pune - IITM": [
+        76.3571538571062,
+        19.75554191457
+    ],
+    "Mhada Colony, Pune - IITM": [
+        74.572831,
+        18.142137
+    ],
+    "Revenue Colony-Shivajinagar, Pune - IITM": [
+        74.582214,
+        16.850358
+    ],
+    "Transport Nagar-Nigdi, Pune - IITM": [
+        77.734646,
+        20.951036
+    ],
+    "Solapur, Solapur - MPCB": [
+        75.91667,
+        17.68333
+    ],
+    "Pimpleshwar Mandir, Thane - MPCB": [
+        72.96333,
+        19.18
+    ],
+    "Sikulpuikawn, Aizawl - Mizoram PCB": [
+        92.717226,
+        23.71829
+    ],
+    "PWD Juction, Kohima - NPCB": [
+        94.11944,
+        25.66667
+    ],
+    "GM Office, Brajrajnagar - OSPCB": [
+        88.3330435,
+        22.5276925
+    ],
+    "Talcher Coalfields,Talcher - OSPCB": [
+        85.21667,
+        20.95
+    ],
+    "Jawahar Nagar, Puducherry - PPCC": [
+        79.83,
+        11.93
+    ],
+    "Golden Temple, Amritsar - PPCB": [
+        74.87654649999999,
+        31.6200135
+    ],
+    "Hardev Nagar, Bathinda - PPCB": [
+        75.553309,
+        31.337835
+    ],
+    "Civil Line, Jalandhar - PPCB": [
+        75.579907,
+        31.320851
+    ],
+    "Kalal Majra, Khanna - PPCB": [
+        76.2029,
+        30.7423
+    ],
+    "Punjab Agricultural University, Ludhiana - PPCB": [
+        75.830327,
+        30.910383
+    ],
+    "RIMT University, Mandi Gobindgarh - PPCB": [
+        76.726343,
+        30.66893
+    ],
+    "Model Town, Patiala - PPCB": [
+        76.367818,
+        30.344075
+    ],
+    "Ratanpura, Rupnagar - Ambuja Cements": [
+        73.9944,
+        30.2097
+    ],
+    "Civil Lines,  Ajmer - RSPCB": [
+        74.641793,
+        26.473073
+    ],
+    "Moti Doongri, Alwar - RSPCB": [
+        76.607087,
+        27.549866
+    ],
+    "RIICO Ind. Area III, Bhiwadi - RSPCB": [
+        76.87,
+        28.21
+    ],
+    "Adarsh Nagar, Jaipur - RSPCB": [
+        75.825254,
+        26.906098
+    ],
+    "Police Commissionerate, Jaipur - RSPCB": [
+        75.86667,
+        26.91667
+    ],
+    "Shastri Nagar, Jaipur - RSPCB": [
+        75.802454,
+        26.946108
+    ],
+    "Collectorate, Jodhpur - RSPCB": [
+        73.08633,
+        26.253082
+    ],
+    "Shrinath Puram, Kota - RSPCB": [
+        75.818342,
+        25.139483
+    ],
+    "Indira Colony Vistar, Pali - RSPCB": [
+        73.349071,
+        25.774527
+    ],
+    "Ashok Nagar, Udaipur - RSPCB": [
+        73.702276,
+        24.589656
+    ],
+    "Alandur Bus Depot, Chennai - CPCB": [
+        80.20389,
+        13.00306
+    ],
+    "Arumbakkam, Chennai - TNPCB": [
+        80.2069,
+        13.0734
+    ],
+    "Kodungaiyur, Chennai - TNPCB": [
+        80.24818,
+        13.14096
+    ],
+    "Manali Village, Chennai - TNPCB": [
+        80.2667,
+        13.1667
+    ],
+    "Manali, Chennai - CPCB": [
+        80.2667,
+        13.1667
+    ],
+    "Perungudi, Chennai - TNPCB": [
+        80.2409,
+        12.961
+    ],
+    "Royapuram, Chennai - TNPCB": [
+        80.2953,
+        13.1072
+    ],
+    "Velachery Res. Area, Chennai - CPCB": [
+        80.218965,
+        12.971872
+    ],
+    "Anthoni Pillai Nagar, Gummidipoondi - TNPCB": [
+        80.09,
+        13.4
+    ],
+    "Meelavittan, Thoothukudi - TNPCB": [
+        78.13333,
+        8.78333
+    ],
+    "Bollaram Industrial Area, Hyderabad - TSPCB": [
+        78.342576,
+        17.546872
+    ],
+    "Central University, Hyderabad - TSPCB": [
+        78.5275025,
+        17.4123365
+    ],
+    "ICRISAT Patancheru, Hyderabad - TSPCB": [
+        78.279584,
+        17.513761
+    ],
+    "IDA Pashamylaram, Hyderabad - TSPCB": [
+        78.46667,
+        17.36667
+    ],
+    "Sanathnagar, Hyderabad - TSPCB": [
+        78.46667,
+        17.36667
+    ],
+    "Zoo Park, Hyderabad - TSPCB": [
+        78.533984,
+        17.46717
+    ],
+    "Kunjaban, Agartala - Tripura SPCB": [
+        91.568343,
+        23.933629
+    ],
+    "Manoharpur, Agra - UPPCB": [
+        77.763238,
+        27.44874
+    ],
+    "Sanjay Palace, Agra - UPPCB": [
+        78.02,
+        27.18
+    ],
+    "Sector-3B Avas Vikas Colony, Agra - UPPCB": [
+        80.50194282009,
+        27.3408313733408
+    ],
+    "Shastripuram, Agra - UPPCB": [
+        78.673469,
+        27.553339
+    ],
+    "New Collectorate, Baghpat - UPPCB": [
+        77.22,
+        28.95
+    ],
+    "Yamunapuram, Bulandshahr - UPPCB": [
+        77.83004,
+        28.407698
+    ],
+    "Indirapuram, Ghaziabad - UPPCB": [
+        77.36315,
+        28.63676
+    ],
+    "Loni, Ghaziabad - UPPCB": [
+        77.28,
+        28.75
+    ],
+    "Sanjay Nagar, Ghaziabad - UPPCB": [
+        77.454664,
+        28.695519
+    ],
+    "Vasundhara, Ghaziabad - UPPCB": [
+        77.370279,
+        28.65998
+    ],
+    "Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB": [
+        83.36667,
+        26.75
+    ],
+    "Knowledge Park - III, Greater Noida - UPPCB": [
+        77.497644,
+        28.469796
+    ],
+    "Knowledge Park - V, Greater Noida - UPPCB": [
+        77.497644,
+        28.469796
+    ],
+    "Anand Vihar, Hapur - UPPCB": [
+        77.854968,
+        28.399379
+    ],
+    "IITK, Kanpur - IITK": [
+        80.234879,
+        26.511124
+    ],
+    "Nehru Nagar, Kanpur - UPPCB": [
+        80.322092,
+        26.471334
+    ],
+    "B R Ambedkar University, Lucknow - UPPCB": [
+        80.89848,
+        26.936608
+    ],
+    "Central School, Lucknow - CPCB": [
+        80.956521,
+        26.874858
+    ],
+    "Gomti Nagar, Lucknow - UPPCB": [
+        81.0011,
+        26.851
+    ],
+    "Lalbagh, Lucknow - CPCB": [
+        80.938035,
+        26.850582
+    ],
+    "Talkatora District Industries Center, Lucknow - CPCB": [
+        80.899014,
+        26.834326
+    ],
+    "Ganga Nagar, Meerut - UPPCB": [
+        77.755632,
+        29.005329
+    ],
+    "Jai Bhim Nagar, Meerut - UPPCB": [
+        77.851078,
+        28.984745
+    ],
+    "Pallavpuram Phase 2, Meerut - UPPCB": [
+        77.6824,
+        28.9927
+    ],
+    "New Mandi, Muzaffarnagar - UPPCB": [
+        77.712906,
+        29.466474
+    ],
+    "Sector - 125, Noida - UPPCB": [
+        80.50194282009,
+        27.3408313733408
+    ],
+    "Sector - 62, Noida - IMD": [
+        80.50194282009,
+        27.3408313733408
+    ],
+    "Sector-1, Noida - UPPCB": [
+        80.50194282009,
+        27.3408313733408
+    ],
+    "Sector-116, Noida - UPPCB": [
+        80.50194282009,
+        27.3408313733408
+    ],
+    "Jhunsi, Prayagraj - UPPCB": [
+        81.916675,
+        25.424425
+    ],
+    "Motilal Nehru NIT, Prayagraj - UPPCB": [
+        81.85,
+        25.45
+    ],
+    "Ardhali Bazar, Varanasi - UPPCB": [
+        83.00611,
+        25.30694
+    ],
+    "Bhelupur, Varanasi - UPPCB": [
+        82.990629,
+        25.302004
+    ],
+    "IESD Banaras Hindu University, Varanasi - UPPCB": [
+        82.995032,
+        25.272653
+    ],
+    "Maldahiya, Varanasi - UPPCB": [
+        83.00611,
+        25.30694
+    ],
+    "Asansol Court Area, Asansol - WBPCB": [
+        86.946033,
+        23.686838
+    ],
+    "Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB": [
+        87.32,
+        23.55
+    ],
+    "Haldia, Haldia - WBPCB": [
+        87.530117,
+        21.690904
+    ],
+    "Ghusuri, Howrah - WBPCB": [
+        88.26639,
+        22.58444
+    ],
+    "Padmapukur, Howrah - WBPCB": [
+        88.580772,
+        22.802831
+    ],
+    "Bidhannagar, Kolkata - WBPCB": [
+        88.42,
+        22.58
+    ],
+    "Fort William, Kolkata - WBPCB": [
+        88.3374145,
+        22.5560075
+    ],
+    "Jadavpur, Kolkata - WBPCB": [
+        88.370567,
+        22.494831
+    ],
+    "Rabindra Sarobar, Kolkata - WBPCB": [
+        88.355227,
+        22.510258
+    ],
+    "Victoria, Kolkata - WBPCB": [
+        88.33778,
+        22.54111
+    ],
+    "Ward-32 Bapupara, Siliguri - WBPCB": [
+        88.0386772435548,
+        23.82201444752
+    ]
+}
