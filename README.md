@@ -2,9 +2,6 @@
 
 ### Hosted on heroku - [air-quality-india.herokuapp.com](https://air-quality-india.herokuapp.com/)
 
-**_Update July26_** - Fixed
-
-**_Update July22_** - There is a glitch in this API since the past couple of days, which is causing it to return very few data points sometimes . Other websites using this API are also facing the same issue. I have contacted the author, hoping for a fix soon. 
 
 * Fetches data from [this](https://data.gov.in/resources/real-time-air-quality-index-various-locations) Gov. of India API.
 * This API gives air quality data by monitoring pollutants like SO2, NO2, PM2.5, PM10 from 1800 locations in real-time.
