@@ -67,7 +67,7 @@ function App() {
     const fetchPollutionData = async () => {
       try {
         let res = await axios.get(
-          "https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=579b464db66ec23bdd00000168089b9538544a4c7f0c3008d2c6919a%20&format=json&offset=0&limit=1000"
+          "https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?format=json&api-key=process.env.REACT_APP_GOV"
         );
         // let res = await axios.get('https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=' + process.env.REACT_APP_GOV)
         res = res.data.records;
@@ -131,8 +131,8 @@ function App() {
     if (pollutionData && seperateData && !map.current) {
       map.current = new mapboxgl.Map({
         container: mapContainer.current,
-        style: "mapbox://styles/mapbox/dark-v10",
-        //style: 'mapbox://styles/dc2121dc/ckqu1789a01xd17s298atr4el',
+        // style: "mapbox://styles/mapbox/dark-v10",
+        style: 'mapbox://styles/dc2121dc/ckqu1789a01xd17s298atr4el',
         // style: 'mapbox://styles/dc2121dc/ckqu1789a01xd17s298atr4el',
 
         center: [lng, lat],
