@@ -67,7 +67,7 @@ function App() {
     const fetchPollutionData = async () => {
       try {
         let res = await axios.get(
-          'https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?format=json&api-key=' + process.env.REACT_APP_GOV
+          'https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?format=json&offset=0&limit=10000&api-key=' + process.env.REACT_APP_GOV
         );
         // let res = await axios.get('https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69?api-key=' + process.env.REACT_APP_GOV)
         res = res.data.records;
